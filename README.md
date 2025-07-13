@@ -2,7 +2,6 @@
 
 A **2D Tower Defense game** developed in **Java** with features such as multiple game states, various enemy types, diverse towers, and a solid gameplay mechanic. Players need to place towers strategically to defend against waves of enemies, manage gold, and protect their lives. 
 
-https://youtu.be/SQZEMXG8BJ8
 
 ---
 
